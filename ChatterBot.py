@@ -11,7 +11,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
 # Quotes to Tweet
-Quotes_list = ["Quote1", "Quote2", "Quote3", "Quote4"]
+Quotes_list = ["Quote1111", "Quote2222", "Quote3333", "Quote4444"]
 
 # Create a function that tweets
 # Create function for tweeting
